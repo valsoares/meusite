@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meusite/static/css/main.3292dd57.chunk.css",
+    "main.css": "/meusite/static/css/main.382f2051.chunk.css",
     "main.js": "/meusite/static/js/main.ce315824.chunk.js",
     "main.js.map": "/meusite/static/js/main.ce315824.chunk.js.map",
     "runtime-main.js": "/meusite/static/js/runtime-main.ab61237a.js",
@@ -9,10 +9,10 @@
     "static/js/2.a26f4ae9.chunk.js": "/meusite/static/js/2.a26f4ae9.chunk.js",
     "static/js/2.a26f4ae9.chunk.js.map": "/meusite/static/js/2.a26f4ae9.chunk.js.map",
     "index.html": "/meusite/index.html",
-    "precache-manifest.9424491c750df0149323863b4e26a65f.js": "/meusite/precache-manifest.9424491c750df0149323863b4e26a65f.js",
+    "precache-manifest.23cee5bc46f5655a419ec47132b4c1a9.js": "/meusite/precache-manifest.23cee5bc46f5655a419ec47132b4c1a9.js",
     "service-worker.js": "/meusite/service-worker.js",
     "static/css/2.f2ad0615.chunk.css.map": "/meusite/static/css/2.f2ad0615.chunk.css.map",
-    "static/css/main.3292dd57.chunk.css.map": "/meusite/static/css/main.3292dd57.chunk.css.map",
+    "static/css/main.382f2051.chunk.css.map": "/meusite/static/css/main.382f2051.chunk.css.map",
     "static/js/2.a26f4ae9.chunk.js.LICENSE.txt": "/meusite/static/js/2.a26f4ae9.chunk.js.LICENSE.txt",
     "static/media/cubo-cover.png": "/meusite/static/media/cubo-cover.3231c1f4.png",
     "static/media/pag1.png": "/meusite/static/media/pag1.f0cdbd79.png",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.ab61237a.js",
     "static/css/2.f2ad0615.chunk.css",
     "static/js/2.a26f4ae9.chunk.js",
-    "static/css/main.3292dd57.chunk.css",
+    "static/css/main.382f2051.chunk.css",
     "static/js/main.ce315824.chunk.js"
   ]
 }
