@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/meusite/static/css/main.f71f9d3d.chunk.css",
-    "main.js": "/meusite/static/js/main.b51bf1c9.chunk.js",
-    "main.js.map": "/meusite/static/js/main.b51bf1c9.chunk.js.map",
+    "main.css": "/meusite/static/css/main.4d710cb8.chunk.css",
+    "main.js": "/meusite/static/js/main.e100ac1a.chunk.js",
+    "main.js.map": "/meusite/static/js/main.e100ac1a.chunk.js.map",
     "runtime-main.js": "/meusite/static/js/runtime-main.ab61237a.js",
     "runtime-main.js.map": "/meusite/static/js/runtime-main.ab61237a.js.map",
     "static/css/2.f2ad0615.chunk.css": "/meusite/static/css/2.f2ad0615.chunk.css",
-    "static/js/2.9deea4a5.chunk.js": "/meusite/static/js/2.9deea4a5.chunk.js",
-    "static/js/2.9deea4a5.chunk.js.map": "/meusite/static/js/2.9deea4a5.chunk.js.map",
+    "static/js/2.a8a23e06.chunk.js": "/meusite/static/js/2.a8a23e06.chunk.js",
+    "static/js/2.a8a23e06.chunk.js.map": "/meusite/static/js/2.a8a23e06.chunk.js.map",
     "index.html": "/meusite/index.html",
-    "precache-manifest.d390d8ab063d9136fbffcab330883e6a.js": "/meusite/precache-manifest.d390d8ab063d9136fbffcab330883e6a.js",
+    "precache-manifest.e1eaa6601848590e84443ad1d35d72f8.js": "/meusite/precache-manifest.e1eaa6601848590e84443ad1d35d72f8.js",
     "service-worker.js": "/meusite/service-worker.js",
     "static/css/2.f2ad0615.chunk.css.map": "/meusite/static/css/2.f2ad0615.chunk.css.map",
-    "static/css/main.f71f9d3d.chunk.css.map": "/meusite/static/css/main.f71f9d3d.chunk.css.map",
-    "static/js/2.9deea4a5.chunk.js.LICENSE.txt": "/meusite/static/js/2.9deea4a5.chunk.js.LICENSE.txt",
-    "static/media/cubo-cover.png": "/meusite/static/media/cubo-cover.3231c1f4.png",
+    "static/css/main.4d710cb8.chunk.css.map": "/meusite/static/css/main.4d710cb8.chunk.css.map",
+    "static/js/2.a8a23e06.chunk.js.LICENSE.txt": "/meusite/static/js/2.a8a23e06.chunk.js.LICENSE.txt",
+    "static/media/cubo-cover.png": "/meusite/static/media/cubo-cover.1bb2c9af.png",
     "static/media/pag1.png": "/meusite/static/media/pag1.f0cdbd79.png",
     "static/media/pag10.png": "/meusite/static/media/pag10.d5522a79.png",
     "static/media/pag11.png": "/meusite/static/media/pag11.6f052e95.png",
@@ -43,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.ab61237a.js",
     "static/css/2.f2ad0615.chunk.css",
-    "static/js/2.9deea4a5.chunk.js",
-    "static/css/main.f71f9d3d.chunk.css",
-    "static/js/main.b51bf1c9.chunk.js"
+    "static/js/2.a8a23e06.chunk.js",
+    "static/css/main.4d710cb8.chunk.css",
+    "static/js/main.e100ac1a.chunk.js"
   ]
 }
